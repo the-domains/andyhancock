@@ -1,0 +1,28 @@
+name: andyhancock
+favicon: null
+layout_spectrum: 0.09356195479631424
+typography_spectrum: 0.8706058852840215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.04233642993494868
+  lightness: 0.4112200771924108
+  saturation: 0.111835423624143
+  rhythmicContrast: 0.4380601036828011
+purpose: []
